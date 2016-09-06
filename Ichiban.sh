@@ -36,7 +36,7 @@ KERNEL="zImage"
 DTBIMAGE="dt.img"
 DEFCONFIG="cancro_user_defconfig"
 device="cancro"
-COMPILER="/home/Neal/kernel/Tools/arm-eabi-6.0/bin"
+COMPILER="/home/kira/kernel/Tools/arm-eabi-7.0/bin"
 
 ###########################################################################
 # Kernel Details
